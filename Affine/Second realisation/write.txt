@@ -1,0 +1,12 @@
+(124, 351)---->has impossible bigram îü
+(406, 886)---->has impossible bigram îü
+(500, 515)---->has impossible bigram îü
+(401, 80)---->has impossible bigram îü
+(420, 862)---->has impossible bigram îü
+(291, 109)---->has impossible bigram îü
+(555, 610)---->has impossible bigram îü
+(755, 277)---->has impossible bigram îü
+(940, 778)---->has impossible bigram îü
+(413, 459)---->has impossible bigram îü
+(837, 475)---->has impossible bigram îü
+(555, 331)----->Correct entropy 4.48531484242916
